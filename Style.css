@@ -1,0 +1,146 @@
+.start {
+    padding-right: 10px;
+    text-align: right;
+    line-height: 28px;
+
+}
+
+.start h1 {
+    font-size: 25px;
+    font-weight: bold;
+    text-align: right;
+    border-right: rgb(28, 139, 123) solid 4px;
+    font-family: 'Rubik', sans-serif;
+    padding: 10px 10px 10px 0px
+}
+
+.start p {
+    padding-right: 10px;
+    color: rgba(175, 173, 185, 0.986);
+    font-family: 'Rubik', sans-serif;
+}
+
+body {
+    background: rgb(236, 232, 232);
+}
+
+.start div {
+    width: 31%;
+    height: auto;
+    background: white;
+    border-radius: 10px 10px 10px 10px;
+    text-align: right;
+    margin: 10px;
+    display: inline-block;
+    padding-bottom: 10px;
+    background-attachment: fixed;
+}
+
+.start img {
+    width: 100%;
+    border-radius: 10px 10px 20px 20px;
+}
+
+.start button {
+    border-radius: 10px 10px 10px 10px;
+    border: rgb(255, 255, 255)  solid;
+    font-weight: bold;
+    padding-right: 15px;
+    background: rgb(237, 181, 76);
+    padding-right: 10px;
+    padding: 10px 24px;
+    cursor: pointer;
+    font-family: 'Rubik', sans-serif;
+    margin: 5px;
+
+}
+
+.start h3 {
+    padding-right: 10px;
+    font-family: 'Rubik', sans-serif;
+}
+
+.start h4 {
+    padding-right: 10px;
+    font-family: 'Rubik', sans-serif;
+}
+
+.second div {
+    width: 18%;
+    height: 260px;
+    background-color: white;
+    border-radius: 10px 10px 10px 10px;
+    float: left;
+    margin: 14px;
+    text-align: center;
+    padding-bottom: 10px;
+    background-attachment: fixed;
+
+}
+
+.second h1 {
+    font-size: 25px;
+    font-weight: bold;
+    text-align: right;
+    border-right: rgb(28, 139, 123) solid 4px;
+    font-family: 'Rubik', sans-serif;
+    padding: 10px 10px 10px 0px
+}
+
+.second img {
+    width: 100%;
+    border-radius: 50%;
+
+}
+
+/*The fourth class*/
+.fourth {
+    padding-right: 10px;
+    text-align: right;
+    line-height: 28px;
+    display: block;
+}
+
+.lkl{
+    padding: 10px 10px 10px 0px;
+
+    font-size: 25px;
+    font-weight: bold;
+    text-align: right;
+    border-right: rgb(28, 139, 123) solid 4px;
+}
+
+.fourth div {
+    width: 23%;
+    height: auto;
+    background: white;
+    border-radius: 10px 10px 10px 10px;
+    text-align: right;
+    margin: 11px;
+    display: inline-block;
+    padding-bottom: 10px;
+}
+
+.fourth img {
+    width: 40%;
+    height: 150px;
+    border-radius: 10px 10px 20px 20px;
+    padding-top: 20px;
+    padding-right: 20px;   
+}
+
+.fourth p {
+    padding-right: 10px;
+    color: rgba(185, 184, 193, 0.986);
+    font-size: 18px;
+    font-family: 'Rubik', sans-serif;
+
+}
+
+.fourth h1{
+    font-family: 'Rubik', sans-serif;
+    padding-right: 10px;
+    font-size: 28px;
+    font-weight: 1000;
+    color: rgb(0, 0, 0);
+}
